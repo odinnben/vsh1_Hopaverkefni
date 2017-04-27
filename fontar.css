@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+
+@font-face{
+	font-family:bilbo;
+	src:url(ringbearer/RINGM___.ttf);
+}
+
+@font-face{
+	font-family:wow;
+	src:url(LifeCraft_Font.ttf);
+}
+
+
+@font-face{
+	font-family:ow;
+	src:url(bignoodletoo.woff);
+}
+
+body{
+	width:64em;
+	margin: 50px auto;
+}
+
+.hg{
+	font: italic small-caps bold 30px/32px bilbo,Permanent Marker;
+	text-align: justify;
+}
+
+.bilbarinn{
+	font-family:wow;
+}	
